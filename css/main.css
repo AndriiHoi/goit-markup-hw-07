@@ -983,7 +983,7 @@ p {
   margin-right: 30px;
 }
 
-.pictures_text {
+.pictures__text {
   content: '';
   position: absolute;
   bottom: 0;
