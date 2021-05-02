@@ -1067,7 +1067,7 @@ p {
   display: inline-flex;
 }
 
-.social-list_item + .social-list__item {
+.social-list__item + .social-list__item {
   margin-left: 10px;
 }
 
